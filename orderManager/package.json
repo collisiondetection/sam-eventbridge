@@ -1,7 +1,6 @@
 {
   "name": "ordermanager",
   "version": "1.0.0",
-  "description": "",
   "main": "handler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,7 @@
   "dependencies": {
     "aws-sdk": "^2.1595.0",
     "aws-xray-sdk-core": "^3.3.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
